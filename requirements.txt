@@ -3,3 +3,4 @@ cast==0.1.1
 docopt==0.6.2
 project-free-tv==0.2.6
 pychromecast==0.7.5
+beautifulsoup==4.5.1
